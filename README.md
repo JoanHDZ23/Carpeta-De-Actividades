@@ -1,2 +1,3 @@
 # Carpeta-De-Actividades
-Se utilizara para los proyectos del curso de Henrry
+Aqui se guardaran los proyectos a realizar en el curso Henrry.
+see you later!!
